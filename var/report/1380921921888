@@ -1,0 +1,8 @@
+a:4:{i:0;s:51:"Module "VF_AjaxCart" requires module "VF_EasyAjax".";i:1;s:828:"#0 /Applications/MAMP/htdocs/basemagento/app/code/core/Mage/Core/Model/Config.php(849): Mage::throwException('Module "VF_Ajax...')
+#1 /Applications/MAMP/htdocs/basemagento/app/code/core/Mage/Core/Model/Config.php(812): Mage_Core_Model_Config->_sortModuleDepends(Array)
+#2 /Applications/MAMP/htdocs/basemagento/app/code/core/Mage/Core/Model/Config.php(315): Mage_Core_Model_Config->_loadDeclaredModules()
+#3 /Applications/MAMP/htdocs/basemagento/app/code/core/Mage/Core/Model/App.php(414): Mage_Core_Model_Config->loadModules()
+#4 /Applications/MAMP/htdocs/basemagento/app/code/core/Mage/Core/Model/App.php(343): Mage_Core_Model_App->_initModules()
+#5 /Applications/MAMP/htdocs/basemagento/app/Mage.php(684): Mage_Core_Model_App->run(Array)
+#6 /Applications/MAMP/htdocs/basemagento/index.php(87): Mage::run('', 'store')
+#7 {main}";s:3:"url";s:57:"/basemagento/index.php/vestido-feminino-com-franzido.html";s:11:"script_name";s:22:"/basemagento/index.php";}
